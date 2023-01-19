@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Alice Bighetti (吳恩達)
+title: Gisell Billones (吳恩達)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 数据科学家
+role: Software Developer
 
 # Status emoji
 status:
@@ -66,6 +66,6 @@ social:
 #email: ""
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Gisell Billones is a A MERN Stack developer is a full-stack developer who specializes in using MongoDB, Express.js, React.js, and Node.js to build web applications. These developers have expertise in both front-end and back-end development, and are able to handle the entire development process, from the initial design of the application to the deployment of the final product. They are also well-versed in modern web development tools and technologies, and are able to work with a variety of programming languages and frameworks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
